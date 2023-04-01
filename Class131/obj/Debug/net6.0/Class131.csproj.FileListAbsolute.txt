@@ -1,0 +1,15 @@
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\bin\Debug\net6.0\Class131.exe
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\bin\Debug\net6.0\Class131.deps.json
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\bin\Debug\net6.0\Class131.runtimeconfig.json
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\bin\Debug\net6.0\Class131.dll
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\bin\Debug\net6.0\Class131.pdb
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.csproj.AssemblyReference.cache
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.AssemblyInfoInputs.cache
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.AssemblyInfo.cs
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.csproj.CoreCompileInputs.cache
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.dll
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\refint\Class131.dll
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.pdb
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\Class131.genruntimeconfig.cache
+C:\CsharpDotNet\Udemy\Aula131\Class131\Class131\Class131\obj\Debug\net6.0\ref\Class131.dll
